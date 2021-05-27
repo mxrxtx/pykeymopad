@@ -32,6 +32,12 @@ Run the pykeymopad.py file. Yes step 4 is that short :smile:
 * Button locations may differ depending on the controller brand. You can edit the pykeymopad.py file according to you.
 * The test.py file's codes are taken from pygame.
 * Please note that we are in beta phase
+* We are open to any help :relaxed:
+
+Contact info
+Discord ```ayalkin```
+İnstagram ```_mrt_ysr_```
+
 
 
 
